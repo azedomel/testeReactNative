@@ -1,0 +1,67 @@
+ const data = [
+    {
+        "id": "1",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "2",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "3",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "4",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "5",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "6",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "7",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    },
+    {
+        "id": "8",
+        "nome": "julia",
+        "idade": "17",
+        "data": "14/05/2025",
+        "imagem": require("@/assets/images/react-logo.png")
+
+    }
+]
+export default data

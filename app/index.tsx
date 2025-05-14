@@ -1,7 +1,6 @@
 import { Link, router } from "expo-router";
 import { useState } from "react";
-import { StyleSheet, Text, TextInput, TouchableOpacity, View } from "react-native";
-import { SafeAreaView } from "react-native-safe-area-context";
+import { StyleSheet, Text, TextInput, TouchableOpacity, View, SafeAreaView } from "react-native";
 
 export default function HomeScreen(){
     const [email, setEmail] = useState("");
@@ -24,7 +23,7 @@ export default function HomeScreen(){
                     <Text>Entrar</Text>
                 </TouchableOpacity>
                 <View>
-                    <Link href={"/#"} >cadastrar novo usuário</Link>
+                    <Link href={"/list"} >cadastrar novo usuário</Link>
                 </View>
             </View>
         </SafeAreaView>
